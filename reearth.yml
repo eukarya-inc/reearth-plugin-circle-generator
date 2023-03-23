@@ -1,0 +1,12 @@
+id: reearth-plugin-circle-generator
+name: Circle Generator
+version: 0.1.0
+extensions:
+  - id: circle-generator
+    type: widget
+    name: Circle Generator
+    schema:
+      groups:
+        - id: default
+          title: default
+          fields:
