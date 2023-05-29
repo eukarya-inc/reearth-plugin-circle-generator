@@ -6,14 +6,14 @@
 
 ## 使用方法
 
-![](src/img1.png)
+![]( https://eukarya-inc.github.io/reearth-plugin-circle-generator/src/img1.png)
 
 - 地図上左上のアイコン（上図での赤枠部分）をクリックして、円の作成画面を開きます。
 - 予め配置したマーカーを「選択フォルダ」で選択できます。初期状態では「全て」となっており、フォルダやタグの選択も可能です。
 - 半径やストローク・塗りつぶしの色、不透明度を変更することができます。
-  ![](src/img2.png)
+  ![]( https://eukarya-inc.github.io/reearth-plugin-circle-generator/src/img2.png)
 - 上記設定が完了後に「円を生成」をクリックすると、選択したマーカーに円が配置されます。
-  ![](src/img3.png)
+  ![]( https://eukarya-inc.github.io/reearth-plugin-circle-generator/src/img3.png)
 - 「全て消去」をクリックすると、生成した円を一括で削除できます。
 - 「CZML をエクスポート」ボタンを押すと、CZML ファイルが作成されます。
 - CZML ファイルは、Re:Earth のファイルインポート機能で読み込むことができます。
@@ -36,7 +36,7 @@
 
 このプラグインは、Re:Earth 公式プラグインです。
 
-![](https://eukarya-inc.github.io/reearth-plugin-shinsuiNavi/src/logo-3.png)
+![]( https://eukarya-inc.github.io/reearth-plugin-circle-generator/src/logo-3.png)
 
 ソースコードはこちら(https://github.com/eukarya-inc/reearth-plugin-circle-generator)
 
